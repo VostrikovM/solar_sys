@@ -1,2 +1,2 @@
 # solar_sys
-Mycimple  project
+My simple  project
